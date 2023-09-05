@@ -1,0 +1,18 @@
+body{
+    border: 2px solid black;
+    margin: 30px;
+    padding: 100px;
+}
+img{
+    width:30%
+}
+div{
+    margin: 20px;
+}
+td{
+    border: 1px solid black;
+    padding: 5px;
+}
+table{
+    border: 1px solid black;
+}
